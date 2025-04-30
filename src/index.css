@@ -4,6 +4,5 @@
 }
 body{
   height: 100vh;
-  background-color: linear-gradient(#e7cff8, #d79ffe);
-  font-family: 'poppins';
+  background-color: linear-gradient(to bottom, black , rgb(27,27,27), rgb(43,43,43), black )
 }
