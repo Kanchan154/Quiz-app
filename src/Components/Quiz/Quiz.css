@@ -3,7 +3,7 @@
     margin: auto;
     margin-top: 150px;
     background: linear-gradient(#707070 #f3e8e8 #707070);
-    color: #181c18;
+    color: #000800;
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -11,9 +11,9 @@
     padding: 40px 50px;
 }
 .container hr{
-    height: 2px;
+    height: 2.5px;
     border: none;
-    background: #707070;
+    background: #020008;
 }
 .container h2{
     font-size: 27px;
@@ -24,7 +24,7 @@
     align-items: center;
     height: 70px;
     padding-left: 15px;
-    border: 2px solid #841414;
+    border: 2px solid #0c0000;
     border-radius: 8px;
     margin-bottom: 20px;
     font-size: 20px;
@@ -34,7 +34,7 @@
     margin: auto;
     width: 250px;
     height: 65px;
-    background: #3913ad;
+    background: #24008e;
     color: #fff;
     font-size: 25px;
     font-weight: 500;
@@ -43,13 +43,13 @@
 }
 .container .index {
     margin: auto;
-    font-size: 18px;
+    font-size: 20px;
 }
-.container.correct{
-    background:#d9e4df;
-    border-color: #00d397;
+.correct{
+    background:#06f572;
+    border-color: #8570b9;
 }
-.container.wrong{
-    background:#ec4325;
+.wrong{
+    background:#fe322b;
     border-color: #18a123;
 }
