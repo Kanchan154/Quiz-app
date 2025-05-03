@@ -1,8 +1,8 @@
 .container{
-    width: 640px;
+    width: 610px;
     margin: auto;
     margin-top: 150px;
-    background: linear-gradient(#707070 #f3e8e8 #707070);
+    background: rgb(228, 228, 255);
     color: #000800;
     display: flex;
     flex-direction: column;
@@ -15,8 +15,11 @@
     border: none;
     background: #020008;
 }
+.container h1{
+   font-size: 40px; 
+}
 .container h2{
-    font-size: 27px;
+    font-size: 30px;
     font-weight: 500;
 }
 .container ul li{

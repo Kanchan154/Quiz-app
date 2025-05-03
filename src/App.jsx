@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div>
     <h1>
-      Quiz App
+    "📚 Let the Quiz Begin!"
     </h1>
     <Quiz/>
     </div>
